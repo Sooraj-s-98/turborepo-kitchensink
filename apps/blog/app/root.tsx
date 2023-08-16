@@ -22,7 +22,7 @@ export default function App() {
   return (
     <html lang="en">
       <head>
-        	<script id="cookieyes" type="text/javascript" src="https://scriptstaging.cookieyes.com/client_data/1127135118db88921490c6d2/script.js"></script>
+      	<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/d451a18820092b5210aa3990/script.js"></script>
         <Meta />
         <Links />
       </head>
